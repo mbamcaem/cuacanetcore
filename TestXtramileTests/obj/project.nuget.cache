@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DqAxh6NGu5rF4DUFgZtIkp9M+fcWRsMGx2YVrOMgf1Ksx790Pgb+tLfxUu9z7qzI340EAr3Uacj0vvI4HFtrNw==",
+  "dgSpecHash": "aa+WNEO8ijLUwkZ3+un756C967aWtgyymxhBqIgQRYiDJIqIpZbMUkUfdRiDsEa6Ccl3XfgmmVsbA2oiDH9LPA==",
   "success": true,
-  "projectFilePath": "D:\\job\\OOP c#\\Xtramile\\TestXtramileTests\\TestXtramileTests.csproj",
+  "projectFilePath": "D:\\job\\OOP c#\\Xtramile\\cuacanetcore\\TestXtramileTests\\TestXtramileTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\daddy\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\daddy\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",

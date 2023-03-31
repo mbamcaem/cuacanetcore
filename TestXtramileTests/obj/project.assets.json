@@ -3202,8 +3202,8 @@
     },
     "TestXtramile/1.0.0": {
       "type": "project",
-      "path": "../TestXtramile/TestXtramile.csproj",
-      "msbuildProject": "../TestXtramile/TestXtramile.csproj"
+      "path": "../TestXtramileService/TestXtramile.csproj",
+      "msbuildProject": "../TestXtramileService/TestXtramile.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3227,11 +3227,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\job\\OOP c#\\Xtramile\\TestXtramileTests\\TestXtramileTests.csproj",
+      "projectUniqueName": "D:\\job\\OOP c#\\Xtramile\\cuacanetcore\\TestXtramileTests\\TestXtramileTests.csproj",
       "projectName": "TestXtramileTests",
-      "projectPath": "D:\\job\\OOP c#\\Xtramile\\TestXtramileTests\\TestXtramileTests.csproj",
+      "projectPath": "D:\\job\\OOP c#\\Xtramile\\cuacanetcore\\TestXtramileTests\\TestXtramileTests.csproj",
       "packagesPath": "C:\\Users\\daddy\\.nuget\\packages\\",
-      "outputPath": "D:\\job\\OOP c#\\Xtramile\\TestXtramileTests\\obj\\",
+      "outputPath": "D:\\job\\OOP c#\\Xtramile\\cuacanetcore\\TestXtramileTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\daddy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3248,8 +3248,8 @@
         "netcoreapp3.1": {
           "targetAlias": ".NETCoreApp,Version=v3.1",
           "projectReferences": {
-            "D:\\job\\OOP c#\\Xtramile\\TestXtramile\\TestXtramile.csproj": {
-              "projectPath": "D:\\job\\OOP c#\\Xtramile\\TestXtramile\\TestXtramile.csproj"
+            "D:\\job\\OOP c#\\Xtramile\\cuacanetcore\\TestXtramileService\\TestXtramile.csproj": {
+              "projectPath": "D:\\job\\OOP c#\\Xtramile\\cuacanetcore\\TestXtramileService\\TestXtramile.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\job\\OOP c#\\Xtramile\\TestXtramile\\TestXtramile.csproj": {}
+    "D:\\job\\OOP c#\\Xtramile\\cuacanetcore\\TestXtramileService\\TestXtramile.csproj": {}
   },
   "projects": {
-    "D:\\job\\OOP c#\\Xtramile\\TestXtramile\\TestXtramile.csproj": {
+    "D:\\job\\OOP c#\\Xtramile\\cuacanetcore\\TestXtramileService\\TestXtramile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\job\\OOP c#\\Xtramile\\TestXtramile\\TestXtramile.csproj",
+        "projectUniqueName": "D:\\job\\OOP c#\\Xtramile\\cuacanetcore\\TestXtramileService\\TestXtramile.csproj",
         "projectName": "TestXtramile",
-        "projectPath": "D:\\job\\OOP c#\\Xtramile\\TestXtramile\\TestXtramile.csproj",
+        "projectPath": "D:\\job\\OOP c#\\Xtramile\\cuacanetcore\\TestXtramileService\\TestXtramile.csproj",
         "packagesPath": "C:\\Users\\daddy\\.nuget\\packages\\",
-        "outputPath": "D:\\job\\OOP c#\\Xtramile\\TestXtramile\\obj\\",
+        "outputPath": "D:\\job\\OOP c#\\Xtramile\\cuacanetcore\\TestXtramileService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\daddy\\AppData\\Roaming\\NuGet\\NuGet.Config",
